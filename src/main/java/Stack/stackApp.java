@@ -12,7 +12,7 @@ package Stack;
 public class stackApp {
     public static void main(String[] args) {
         stack newStack = new stack(10);
-        newStack.push(10);
+        newStack.push(55);
         newStack.printData();
         newStack.push(30);
         System.out.println("Ardi Kusuma Bahari");
